@@ -1,0 +1,8 @@
+title = "Hyunmin Blog"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "docport"
+pluralizeListTitles = false
+[params]
+color_main = "#737373"
+color_second = "#b30000"
