@@ -1,5 +1,5 @@
 title = "Hyunmin Blog"
-baseURL = "http://example.org/"
+baseURL = "https://hyunminko.github.io/"
 languageCode = "en-us"
 theme = "docport"
 pluralizeListTitles = false
